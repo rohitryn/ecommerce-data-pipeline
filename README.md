@@ -14,9 +14,7 @@ This project simulates an e-commerce data platform that processes customer, prod
 
 New files uploaded to configured incremental S3 folders are ingested through Snowpipe. Scheduled tasks check for stream data every five minutes and process pending changes.
 
-<!-- Replace this placeholder with the architecture diagram once it is available in this folder. -->
-
-<!-- Example: ![Project Architecture](architecture/architecture.png) -->
+![E-Commerce Data Pipeline Architecture](architecture/architecture.png)
 
 ## Technology Stack
 
