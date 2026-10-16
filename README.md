@@ -43,8 +43,14 @@ These are the recorded project results. The total is the sum of the three tables
 The report contains three pages:
 
 1. Executive Sales Dashboard
-2. Product & Customer Analysis
-3. Operations & Order Analysis
+   <img width="870" height="489" alt="Executive Sales Dashboard" src="https://github.com/user-attachments/assets/13c2bd6b-1023-4a2f-978a-94f8d3282974" />
+
+3. Product & Customer Analysis
+   <img width="868" height="489" alt="Product   Customer Analysis" src="https://github.com/user-attachments/assets/11de0c36-3cd1-4901-9b89-524322a664b2" />
+
+5. Operations & Order Analysis
+   <img width="854" height="489" alt="Operations   Order Analysis" src="https://github.com/user-attachments/assets/f1a0d990-eaa4-4535-941b-6c9178a3039e" />
+
 
 The report connects to Snowflake and uses customer and product dimensions, the orders fact table, and analytical views.
 
