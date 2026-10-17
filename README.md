@@ -139,6 +139,17 @@ The report contains three pages:
 * Sales by order status
 * Cancellation rate
 
+### Dashboard Screenshots
+
+#### Executive Sales Dashboard
+![Executive Sales Dashboard](powerbi/screenshots/Executive%20Sales%20Dashboard.png)
+
+#### Product & Customer Analysis
+![Product & Customer Analysis](powerbi/screenshots/Product%20%26%20Customer%20Analysis.png)
+
+#### Operations & Order Analysis
+![Operations & Order Analysis](powerbi/screenshots/Operations%20%26%20Order%20Analysis.png)
+
 *Dashboard screenshots will be added to the `powerbi/` folder.*
 >>>>>>> 0c69581985921bdf1c42c6db41785e1461c15808
 
